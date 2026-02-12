@@ -43,9 +43,10 @@ html {
 	padding-top: 26px;
 	padding-bottom: 27px;
 	text-align: center;
+	opacity: 0.9;
 }
 .table-page__item:hover {
-	opacity: 0.8;
+	opacity: 1;
 	cursor: url("../assets/img/cursor.svg"), auto;
 }
 .table-page__block {
@@ -75,37 +76,37 @@ html {
 	width: 25%;
 }
 .table-page__item--lisbon {
-	background-color: color-mix(in oklab, #71b8d8 80%, white);
+	background-color: #71b8d8;
 }
 .table-page__item--paris {
-	background-color:color-mix(in oklab, #71dbdb 80%, white); 
+	background-color: #71dbdb;
 }
 .table-page__item--belgrad {
-	background-color: color-mix(in oklab, #996699 80%, white);
+	background-color: #996699;
 }
 .table-page__item--venice {
-	background-color: color-mix(in oklab, #c24747 80%, white);
+	background-color: #c24747;
 }
 .table-page__item--tel-aviv {
-	background-color: color-mix(in oklab, #e2674a 80%, white);
+	background-color: #e2674a;
 }
 .table-page__item--cair {
-	background-color: color-mix(in oklab, #ffcc66 80%, white);
+	background-color: #ffcc66;
 }
 .table-page__item--new-york {
-	background-color: color-mix(in oklab, #99cc99 80%, white);
+	background-color: #99cc99;
 }
 .table-page__item--new-delhi {
-	background-color: color-mix(in oklab, #669999 80%, white);
+	background-color: #669999;
 }
 .table-page__item--san-francisco {
-	background-color:color-mix(in oklab, #cc6699 80%, white); 
+	background-color: #cc6699;
 }
 .table-page__item--tokyo {
-	background-color: color-mix(in oklab, #339966 80%, white); 
+	background-color: #339966;
 }
 .table-page__item--sydney {
-	background-color: color-mix(in oklab, #666699 80%, white);
+	background-color: #666699;
 }
 .page__text {
 	font-size: 16px;
